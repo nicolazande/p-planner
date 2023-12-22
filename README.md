@@ -20,6 +20,8 @@ The project introduces the concept of parallel planning, where computational uni
 - Qt GUI for interactive configuration and visualization
 
 ## Results
+Here you can find a plot showing a performance comparison between different planners and how p-planner explits parallelization to reduce the time needed to find a solution.
+
 ![xSX4oM4t](https://github.com/nicolazande/p-planner/assets/115359494/17259d72-e31d-4218-8491-4a1ee3c31cf6)
 
    
