@@ -1,4 +1,4 @@
-# Parallel Planner
+# p-planner
 
 p-planner is a C++ project that implements a parallelized path planning algorithm. It takes advantage of GPUs and multi-core hardware to achieve higher performance by leveraging parallelism. The project includes a Qt GUI that showcases the effectiveness of the planner, allowing users to configure the number of threads and planners running against each other.
 
